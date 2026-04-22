@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "tZdvFPDb25nu8g7aGfPjSSedVd9KiiF7R9PhcliJucQ=",
+  "Source": "Portfolio",
+  "BasePath": "_content/Portfolio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Portfolio\\wwwroot",
+      "Source": "Portfolio",
+      "ContentRoot": "D:\\HImu\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\HImu\\Portfolio\\Portfolio\\wwwroot\\images\\profile.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HImu\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "images/profile.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\profile.png"
+    },
+    {
+      "Identity": "D:\\HImu\\Portfolio\\Portfolio\\wwwroot\\index.html",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HImu\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\HImu\\Portfolio\\Portfolio\\wwwroot\\resume.pdf",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HImu\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "resume.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resume.pdf"
+    },
+    {
+      "Identity": "D:\\HImu\\Portfolio\\Portfolio\\wwwroot\\resume.txt",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HImu\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "resume.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resume.txt"
+    }
+  ]
+}

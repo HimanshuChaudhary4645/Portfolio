@@ -1,0 +1,111 @@
+﻿Himanshu Chaudhary 
+ 
+
+ Immediate Joiner | Open to Opportunities 
+ 
+ 
+ 
+
+ chaudharyhimanshu4645@gmail.com  9999014645  Noida , India 
+
+  https://www.linkedin.com/in/himanshu-chaudhary-9999014645/ 
+
+ 
+SUMMARY 
+
+ 
+
+Full Stack .NET Developer with 4.6+ years of experience in building scalable web applications and RESTful APIs using 
+ASP.NET MVC, .NET Core, and Web API. Proven expertise in performance optimization (up to 80%), SQL query 
+optimization, and automation of business processes. Experienced in developing enterprise-level CRM systems, payment 
+integrations, and end-to-end application workflows. Immediate joiner, open to opportunities. 
+
+SKILLS 
+Programming Languages: C#, JavaScript, HTML, CSS 
+
+Web Development and Frameworks: ASP.NET MVC, ASP.Net Core, Web API, Bootstrap, Azure 
+
+Databases: SQL Server, Entity Framework, LINQ, MySQL 
+
+Tools: Visual Studio, Git, ChatGPT, Github Copilot, Gemini AI, Postman, TFS, SSMS 
+
+Concepts: RESTful APIs, Scalable Architecture, Performance Optimization, SQL Optimization, API Integration 
+
+PROFESSIONAL EXPERIENCE 
+MVC Developer Nov 2023 – Present | Noida, India 
+Global Opportunities: 
+
+ Spearheaded performance optimization of the internal CRM dashboard, leading to a 30% improvement in module load times 
+through efficient refactoring and resource handling. 
+
+ Designed and enhanced multiple modules, including Applicant Reports and Visa Processing Workflows, to streamline  
+end-to-end student lifecycle tracking. 
+
+ Developed a configurable communication framework for automated email and SMS notifications, successfully automating 
+70% of manual outreach processes. 
+
+ Collaborated with cross-functional teams (product, QA, backend) to integrate scalable features and improve data  
+ flow consistency across the platform. 
+
+ Improved user experience by simplifying complex workflows, contributing to a 25% reduction in support tickets  
+and enhanced system usability. 
+
+ Actively involved in requirement analysis, system design, and delivering end-to-end scalable 
+ solutions in an agile environment 
+
+ 
+
+Software Developer Aug 2021 – Nov 2023 | Noida, India 
+Dishtv India: 
+
+ Developed and maintained scalable web applications and RESTful APIs for D2h.com using ASP.NET MVC,  
+Web API, SQL Server, JavaScript, jQuery, and Bootstrap, ensuring high performance and scalability. 
+
+ Refactored core business logic modules to achieve performance optimization and SQL query efficiency, resulting in up 
+to 80% performance improvement and significantly reducing backend system load. 
+
+ Enhanced key transactional flows, contributing to increased user engagement and revenue growth through smoother 
+customer journeys. 
+
+ Collaborated with cross-functional teams and stakeholders to identify and resolve critical issues, delivering consistent 
+improvements in user experience across web platforms. 
+
+ Integrated secure payment gateway APIs and developed an automated invoice generation feature, boosting transaction 
+success rates and improving post-purchase processes. 
+
+ Designed and implemented dynamic dashboards for user account management and service upgrade workflows, improving 
+accessibility and operational transparency for end-users. 
+
+ Designed and integrated multiple APIs ensuring secure, scalable, and efficient data flow across systems 
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Key Projects 
+
+D2h.com (Dishtv India) 
+
+ Built scalable modules for payments, subscriptions, and dashboards  
+ Improved system performance by up to 80% through backend and SQL optimization  
+ Integrated payment gateways and automated invoicing  
+
+CRM System (Global Opportunities) 
+
+ Developed student lifecycle and workflow management system  
+ Automated communication processes (Email/SMS) reducing manual effort by 70%  
+ Enhanced usability, reducing support issues by 25% 
+
+ 
+EDUCATION 
+
+ 
+Bachelor Of Engineering 2017 – 2021 Greater Noida, India 
+NIET Gr-Noida 
+Relevant Coursework: Data Structures, 
+Algorithms, Object-oriented Programming, Software Engineering
